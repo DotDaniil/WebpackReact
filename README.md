@@ -12,7 +12,7 @@
 
 - Start app:
 
-`npm start`
+`npm run dev`
 
 #### Стек технологий
 
